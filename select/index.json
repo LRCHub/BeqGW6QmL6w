@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Fractures",
+  "base_artist": "Illenium",
+  "createdAt": "2026-03-10T14:38:02.818966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tiny Little Fractures",
+      "artist": "Snow Patrol",
+      "has_synced": true,
+      "path": "select/01_Tiny_Little_Fractures_Snow_Patrol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fractures",
+      "artist": "ILLENIUM feat. Nevve",
+      "has_synced": true,
+      "path": "select/02_Fractures_ILLENIUM_feat._Nevve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fractures",
+      "artist": "Illenium, Nevve",
+      "has_synced": true,
+      "path": "select/03_Fractures_Illenium,_Nevve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "12 Fractures",
+      "artist": "Pierce The Veil feat. chloe moriondo",
+      "has_synced": true,
+      "path": "select/04_12_Fractures_Pierce_The_Veil_feat._chloe_moriondo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "12 Fractures",
+      "artist": "Pierce the Veil",
+      "has_synced": true,
+      "path": "select/05_12_Fractures_Pierce_the_Veil.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fractures",
+      "artist": "Parkway Drive",
+      "has_synced": true,
+      "path": "select/06_Fractures_Parkway_Drive.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mistakes Like Fractures",
+      "artist": "Knocked Loose",
+      "has_synced": true,
+      "path": "select/07_Mistakes_Like_Fractures_Knocked_Loose.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fractures (feat. Nevve)",
+      "artist": "Illenium, Nevve",
+      "has_synced": true,
+      "path": "select/08_Fractures_(feat._Nevve)_Illenium,_Nevve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fractures (Trivecta Remix) [feat. Nevve]",
+      "artist": "Illenium feat. Trivecta & Nevve",
+      "has_synced": true,
+      "path": "select/09_Fractures_(Trivecta_Remix)_[feat._Nevve]_Illenium_feat._Trivecta_&_Nevve.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fractures (Trivecta Remix) [feat. Nevve]",
+      "artist": "ILLENIUM/Trivecta/Nevve",
+      "has_synced": true,
+      "path": "select/10_Fractures_(Trivecta_Remix)_[feat._Nevve]_ILLENIUM_Trivecta_Nevve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mistakes Like Fractures",
+      "artist": "Knocked Loose",
+      "has_synced": true,
+      "path": "select/11_Mistakes_Like_Fractures_Knocked_Loose.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fractures",
+      "artist": "ILLENIUM",
+      "has_synced": true,
+      "path": "select/12_Fractures_ILLENIUM.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fractures",
+      "artist": "Killing The Dream",
+      "has_synced": true,
+      "path": "select/13_Fractures_Killing_The_Dream.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fractures in Plaster",
+      "artist": "Superchunk",
+      "has_synced": true,
+      "path": "select/14_Fractures_in_Plaster_Superchunk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fractures (feat. Nevve)",
+      "artist": "ILLENIUM/Nevve",
+      "has_synced": true,
+      "path": "select/15_Fractures_(feat._Nevve)_ILLENIUM_Nevve.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fractures - Lorcan Rooney Piano Cover",
+      "artist": "Illenium feat. Nevve & Lorcan Rooney",
+      "has_synced": false,
+      "path": "select/16_Fractures_-_Lorcan_Rooney_Piano_Cover_Illenium_feat._Nevve_&_Lorcan_Rooney.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fractures",
+      "artist": "Illenium",
+      "has_synced": true,
+      "path": "select/17_Fractures_Illenium.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fractures (feat. Nevve)",
+      "artist": "Illenium",
+      "has_synced": false,
+      "path": "select/pl_01_Fractures_(feat._Nevve)_Illenium.txt"
+    }
+  ]
+}
